@@ -219,3 +219,7 @@ input {
    font-weight: 800;
    cursor: pointer;
 }
+
+footer {
+   background: rgba(13, 19, 33, 0.03);
+}
