@@ -232,3 +232,8 @@ footer {
    justify-content: space-between;
    align-items: center;
 }
+
+.footer-img {
+   display: flex;
+   gap: 20px;
+}
